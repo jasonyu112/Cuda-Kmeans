@@ -6,3 +6,5 @@
 
 # Ensure .gitignore is not ignored
 !.gitignore
+!Makefile
+!README.md
