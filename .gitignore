@@ -8,3 +8,6 @@
 !.gitignore
 !Makefile
 !README.md
+!*.keep
+
+venv
