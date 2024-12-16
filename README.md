@@ -45,4 +45,3 @@ How_To_Compile:
 Executable:
 Extra_Args:
 
-![alt text](image.png)
