@@ -56,5 +56,6 @@ Calculated using Amdahl's law.
 ![image](https://github.com/user-attachments/assets/323b3cf5-5b3f-40fb-9583-cb1251883cf5)
 
 **Data Transfer Times E2E:**
+![image](https://github.com/user-attachments/assets/91d731f2-8121-44d1-8ae3-c14d70297b80)
 
 
