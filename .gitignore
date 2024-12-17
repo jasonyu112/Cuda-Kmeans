@@ -1,6 +1,7 @@
 *.deb
 *.py
 /input/self*
+.vscode
 # Ensure .gitignore, Makefile, and README.md in the root are not ignored
 !.gitignore
 !Makefile
