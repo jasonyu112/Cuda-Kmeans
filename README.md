@@ -50,3 +50,7 @@ Calculated using Amdahl's law.
 ![image](https://github.com/user-attachments/assets/22e77bc1-bc39-47bc-8c1e-a2f523990437)
 
 **Actual Program Speedup E2E:**
+![image](https://github.com/user-attachments/assets/d06ef97c-b054-4a2e-b3c1-f12e15a62b63)
+
+**Per Iteration Speedup:**
+
