@@ -1,13 +1,11 @@
-# Ignore all files
-*
-
-# Allow all directories
-!*/
-
-# Ensure .gitignore is not ignored
+*.deb
+*.py
+/input/self*
+# Ensure .gitignore, Makefile, and README.md in the root are not ignored
 !.gitignore
 !Makefile
 !README.md
-!*.keep
 
-venv
+# Ignore the virtual environment directory (if needed)
+venv/
+/submit.txt
