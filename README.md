@@ -53,4 +53,8 @@ Calculated using Amdahl's law.
 ![image](https://github.com/user-attachments/assets/d06ef97c-b054-4a2e-b3c1-f12e15a62b63)
 
 **Per Iteration Speedup:**
+![image](https://github.com/user-attachments/assets/323b3cf5-5b3f-40fb-9583-cb1251883cf5)
+
+**Data Transfer Times E2E:**
+
 
